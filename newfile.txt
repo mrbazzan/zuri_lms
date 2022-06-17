@@ -1,2 +1,2 @@
 
-secret="my_name"
+secret="my_new_name"
